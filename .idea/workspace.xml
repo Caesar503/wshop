@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd5f1d2b-a62e-4de8-9ebe-8176ecb8e686" name="默认的" comment="" />
+    <ignored path="1809.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="1809" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="JeweController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/JeweController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-27.205883">
+              <caret line="156" column="8" selection-start-line="156" selection-start-column="8" selection-end-line="156" selection-end-column="8" />
+              <folding>
+                <element signature="e#174#518#0#PHP" expanded="false" />
+                <element signature="e#541#977#0#PHP" expanded="false" />
+                <element signature="e#990#1323#0#PHP" expanded="false" />
+                <element signature="e#1337#1772#0#PHP" expanded="false" />
+                <element signature="e#1795#2167#0#PHP" expanded="false" />
+                <element signature="e#2189#2448#0#PHP" expanded="false" />
+                <element signature="e#2466#3328#0#PHP" expanded="false" />
+                <element signature="e#3346#3693#0#PHP" expanded="false" />
+                <element signature="e#3708#4777#0#PHP" expanded="false" />
+                <element signature="e#4874#5209#0#PHP" expanded="false" />
+                <element signature="e#5226#7541#0#PHP" expanded="false" />
+                <element signature="e#7773#9272#0#PHP" expanded="false" />
+                <element signature="e#9290#9961#0#PHP" expanded="false" />
+                <element signature="e#9973#10770#0#PHP" expanded="false" />
+                <element signature="e#10881#11154#0#PHP" expanded="false" />
+                <element signature="e#11169#11247#0#PHP" expanded="false" />
+                <element signature="e#11263#11767#0#PHP" expanded="false" />
+                <element signature="e#11783#11899#0#PHP" expanded="false" />
+                <element signature="e#11915#12177#0#PHP" expanded="false" />
+                <element signature="e#12198#12294#0#PHP" expanded="false" />
+                <element signature="e#12311#12532#0#PHP" expanded="false" />
+                <element signature="e#12551#13335#0#PHP" expanded="false" />
+                <element signature="e#13353#13623#0#PHP" expanded="false" />
+                <element signature="e#13641#13725#0#PHP" expanded="false" />
+                <element signature="e#13740#13808#0#PHP" expanded="false" />
+                <element signature="e#13824#13888#0#PHP" expanded="false" />
+                <element signature="e#13903#14005#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="success.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Jewe/success.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="86" column="39" selection-start-line="86" selection-start-column="39" selection-end-line="86" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6497525">
+              <caret line="119" column="16" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WxPayController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WxPayController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Http/Controllers/JeweController.php" />
+        <option value="$PROJECT_DIR$/config/alipay.php" />
+        <option value="$PROJECT_DIR$/resources/views/Jewe/pay.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/public/js/jquery-1.12.4.min.js" />
+        <option value="$PROJECT_DIR$/public/js/qrcode.js" />
+        <option value="$PROJECT_DIR$/resources/views/weixin/test.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Jewe/success.blade.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/WxPayController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="298" />
+    <option name="y" value="69" />
+    <option name="width" value="1295" />
+    <option name="height" value="1001" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1809" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1809" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1809" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\1809\app\Http\Controllers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd5f1d2b-a62e-4de8-9ebe-8176ecb8e686" name="默认的" comment="" />
+      <created>1555495436645</created>
+      <option name="number" value="Default" />
+      <updated>1555495436645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="298" y="69" width="1295" height="1001" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/JeweController.php</url>
+          <line>452</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/JeweController.php</url>
+          <line>141</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/WxPayController.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/JeweController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#174#518#0#PHP" expanded="false" />
+            <element signature="e#541#977#0#PHP" expanded="false" />
+            <element signature="e#990#1323#0#PHP" expanded="false" />
+            <element signature="e#1337#1772#0#PHP" expanded="false" />
+            <element signature="e#1795#2167#0#PHP" expanded="false" />
+            <element signature="e#2189#2448#0#PHP" expanded="false" />
+            <element signature="e#2466#3328#0#PHP" expanded="false" />
+            <element signature="e#3346#3693#0#PHP" expanded="false" />
+            <element signature="e#3708#4777#0#PHP" expanded="false" />
+            <element signature="e#4874#5209#0#PHP" expanded="false" />
+            <element signature="e#5226#7541#0#PHP" expanded="false" />
+            <element signature="e#7773#9272#0#PHP" expanded="false" />
+            <element signature="e#9290#9961#0#PHP" expanded="false" />
+            <element signature="e#9973#10770#0#PHP" expanded="false" />
+            <element signature="e#10881#11154#0#PHP" expanded="false" />
+            <element signature="e#11169#11247#0#PHP" expanded="false" />
+            <element signature="e#11263#11767#0#PHP" expanded="false" />
+            <element signature="e#11783#11899#0#PHP" expanded="false" />
+            <element signature="e#11915#12177#0#PHP" expanded="false" />
+            <element signature="e#12198#12294#0#PHP" expanded="false" />
+            <element signature="e#12311#12532#0#PHP" expanded="false" />
+            <element signature="e#12551#13335#0#PHP" expanded="false" />
+            <element signature="e#13353#13623#0#PHP" expanded="false" />
+            <element signature="e#13641#13725#0#PHP" expanded="false" />
+            <element signature="e#13740#13808#0#PHP" expanded="false" />
+            <element signature="e#13824#13888#0#PHP" expanded="false" />
+            <element signature="e#13903#14005#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Jewe/success.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="39" selection-start-line="86" selection-start-column="39" selection-end-line="86" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WxPayController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/JeweController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="156" column="8" selection-start-line="156" selection-start-column="8" selection-end-line="156" selection-end-column="8" />
+          <folding>
+            <element signature="e#174#518#0#PHP" expanded="false" />
+            <element signature="e#541#977#0#PHP" expanded="false" />
+            <element signature="e#990#1323#0#PHP" expanded="false" />
+            <element signature="e#1337#1772#0#PHP" expanded="false" />
+            <element signature="e#1795#2167#0#PHP" expanded="false" />
+            <element signature="e#2189#2448#0#PHP" expanded="false" />
+            <element signature="e#2466#3328#0#PHP" expanded="false" />
+            <element signature="e#3346#3693#0#PHP" expanded="false" />
+            <element signature="e#3708#4777#0#PHP" expanded="false" />
+            <element signature="e#4874#5209#0#PHP" expanded="false" />
+            <element signature="e#5226#7541#0#PHP" expanded="false" />
+            <element signature="e#7773#9272#0#PHP" expanded="false" />
+            <element signature="e#9290#9961#0#PHP" expanded="false" />
+            <element signature="e#9973#10770#0#PHP" expanded="false" />
+            <element signature="e#10881#11154#0#PHP" expanded="false" />
+            <element signature="e#11169#11247#0#PHP" expanded="false" />
+            <element signature="e#11263#11767#0#PHP" expanded="false" />
+            <element signature="e#11783#11899#0#PHP" expanded="false" />
+            <element signature="e#11915#12177#0#PHP" expanded="false" />
+            <element signature="e#12198#12294#0#PHP" expanded="false" />
+            <element signature="e#12311#12532#0#PHP" expanded="false" />
+            <element signature="e#12551#13335#0#PHP" expanded="false" />
+            <element signature="e#13353#13623#0#PHP" expanded="false" />
+            <element signature="e#13641#13725#0#PHP" expanded="false" />
+            <element signature="e#13740#13808#0#PHP" expanded="false" />
+            <element signature="e#13824#13888#0#PHP" expanded="false" />
+            <element signature="e#13903#14005#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Jewe/success.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="39" selection-start-line="86" selection-start-column="39" selection-end-line="86" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WxPayController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/JeweController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="156" column="8" selection-start-line="156" selection-start-column="8" selection-end-line="156" selection-end-column="8" />
+          <folding>
+            <element signature="e#174#518#0#PHP" expanded="false" />
+            <element signature="e#541#977#0#PHP" expanded="false" />
+            <element signature="e#990#1323#0#PHP" expanded="false" />
+            <element signature="e#1337#1772#0#PHP" expanded="false" />
+            <element signature="e#1795#2167#0#PHP" expanded="false" />
+            <element signature="e#2189#2448#0#PHP" expanded="false" />
+            <element signature="e#2466#3328#0#PHP" expanded="false" />
+            <element signature="e#3346#3693#0#PHP" expanded="false" />
+            <element signature="e#3708#4777#0#PHP" expanded="false" />
+            <element signature="e#4874#5209#0#PHP" expanded="false" />
+            <element signature="e#5226#7541#0#PHP" expanded="false" />
+            <element signature="e#7773#9272#0#PHP" expanded="false" />
+            <element signature="e#9290#9961#0#PHP" expanded="false" />
+            <element signature="e#9973#10770#0#PHP" expanded="false" />
+            <element signature="e#10881#11154#0#PHP" expanded="false" />
+            <element signature="e#11169#11247#0#PHP" expanded="false" />
+            <element signature="e#11263#11767#0#PHP" expanded="false" />
+            <element signature="e#11783#11899#0#PHP" expanded="false" />
+            <element signature="e#11915#12177#0#PHP" expanded="false" />
+            <element signature="e#12198#12294#0#PHP" expanded="false" />
+            <element signature="e#12311#12532#0#PHP" expanded="false" />
+            <element signature="e#12551#13335#0#PHP" expanded="false" />
+            <element signature="e#13353#13623#0#PHP" expanded="false" />
+            <element signature="e#13641#13725#0#PHP" expanded="false" />
+            <element signature="e#13740#13808#0#PHP" expanded="false" />
+            <element signature="e#13824#13888#0#PHP" expanded="false" />
+            <element signature="e#13903#14005#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Jewe/success.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="39" selection-start-line="86" selection-start-column="39" selection-end-line="86" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WxPayController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/weixin/test.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="55" selection-start-line="87" selection-start-column="55" selection-end-line="87" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/alipay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27915633">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Jewe/pay.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49566296">
+          <caret line="184" column="26" selection-start-line="184" selection-start-column="26" selection-end-line="184" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/jquery-1.12.4.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.089179546">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/qrcode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2865636">
+          <caret line="591" column="32" selection-start-line="591" selection-start-column="32" selection-end-line="591" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Jewe/success.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="39" selection-start-line="86" selection-start-column="39" selection-end-line="86" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/weixin/test.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28836635">
+          <caret line="87" column="55" selection-start-line="87" selection-start-column="55" selection-end-line="87" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WxPayController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/JeweController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.205883">
+          <caret line="156" column="8" selection-start-line="156" selection-start-column="8" selection-end-line="156" selection-end-column="8" />
+          <folding>
+            <element signature="e#174#518#0#PHP" expanded="false" />
+            <element signature="e#541#977#0#PHP" expanded="false" />
+            <element signature="e#990#1323#0#PHP" expanded="false" />
+            <element signature="e#1337#1772#0#PHP" expanded="false" />
+            <element signature="e#1795#2167#0#PHP" expanded="false" />
+            <element signature="e#2189#2448#0#PHP" expanded="false" />
+            <element signature="e#2466#3328#0#PHP" expanded="false" />
+            <element signature="e#3346#3693#0#PHP" expanded="false" />
+            <element signature="e#3708#4777#0#PHP" expanded="false" />
+            <element signature="e#4874#5209#0#PHP" expanded="false" />
+            <element signature="e#5226#7541#0#PHP" expanded="false" />
+            <element signature="e#7773#9272#0#PHP" expanded="false" />
+            <element signature="e#9290#9961#0#PHP" expanded="false" />
+            <element signature="e#9973#10770#0#PHP" expanded="false" />
+            <element signature="e#10881#11154#0#PHP" expanded="false" />
+            <element signature="e#11169#11247#0#PHP" expanded="false" />
+            <element signature="e#11263#11767#0#PHP" expanded="false" />
+            <element signature="e#11783#11899#0#PHP" expanded="false" />
+            <element signature="e#11915#12177#0#PHP" expanded="false" />
+            <element signature="e#12198#12294#0#PHP" expanded="false" />
+            <element signature="e#12311#12532#0#PHP" expanded="false" />
+            <element signature="e#12551#13335#0#PHP" expanded="false" />
+            <element signature="e#13353#13623#0#PHP" expanded="false" />
+            <element signature="e#13641#13725#0#PHP" expanded="false" />
+            <element signature="e#13740#13808#0#PHP" expanded="false" />
+            <element signature="e#13824#13888#0#PHP" expanded="false" />
+            <element signature="e#13903#14005#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6497525">
+          <caret line="119" column="16" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
